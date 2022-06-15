@@ -1,4 +1,4 @@
-###  Effects of the COVID-19 on UK businesses 
+###  Effects of COVID-19 on UK businesses 
 
 This individual project aims to analyse [Companies House data](http://download.companieshouse.gov.uk/en_output.html) and produce data visualisations, to show the impact of the pandemic on UK business foundation patterns. <br />
 <br />
