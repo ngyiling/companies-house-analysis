@@ -7,5 +7,5 @@ This individual project aims to analyse [Companies House data](http://download.c
 **Results:** 
 - Analysed Companies House data of businesses and sectors between 2019 and 2020
 - Plotted an interactive time series to show the effect of covid cases on incorporated retail firms in the UK
-- Display the locations of incorporated retail firms in London on an interactive map, comparing before and after the pandemic
+- Displayed the locations of incorporated retail firms in London on an interactive map, comparing before and after the pandemic
 
